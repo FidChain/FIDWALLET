@@ -1,0 +1,2 @@
+debian/bin/FidCore usr/bin
+src/FidCore usr/lib/FidChain

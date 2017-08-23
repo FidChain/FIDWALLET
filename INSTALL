@@ -1,0 +1,9 @@
+Building FidChain
+
+See doc/readme-qt.rst for instructions on building FidChain QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FidChain.
+
+See doc/build-*.txt for instructions on building FidCore,
+the intended-for-services, no-graphical-interface, reference
+implementation of FidChain.
